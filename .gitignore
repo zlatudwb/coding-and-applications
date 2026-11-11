@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+
+# Week 8 LMS submission bundle (local only)
+week8_submission/
+week8_submission.zip
